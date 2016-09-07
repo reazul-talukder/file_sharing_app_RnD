@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:2.1
+FN:Name
+N:Last Name;Name
+ADR;INTL;PARCEL;WORK:;;;Seul;;;Korea
+TEL;CELL:+00-000-000-000
+EMAIL;INTERNET:person@tizen.com
+UID:
+END:VCARD
